@@ -1,0 +1,11 @@
+dev:
+  - 'newer:sass:dev'
+  - 'newer:concat_css'
+  - 'newer:uglify:dev'
+  - 'newer:imagemin'
+  - 'watch'
+compile:
+  - 'newer:sass'
+  - 'newer:concat_css'
+  - 'newer:uglify'
+  - 'newer:imagemin'

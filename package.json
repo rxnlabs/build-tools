@@ -1,0 +1,25 @@
+{
+    "name": "name-of-package",
+    "version": "1.0.0",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "private": true,
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-concat-css": "^0.3.1",
+        "grunt-contrib-imagemin": "^0.1.4",
+        "grunt-contrib-jshint": "^0.4.3",
+        "grunt-contrib-uglify": "^0.10.1",
+        "grunt-contrib-watch": "^0.4.4",
+        "grunt-sass": "^1.0.0",
+        "grunt-spritesmith": "^5.0.0",
+        "load-grunt-tasks": "^0.6.0",
+        "node-bourbon": "^4.2.3",
+        "node-sass": "^3.2.0",
+        "load-grunt-config": "^0.19.0",
+        "grunt-newer": "^1.1.1"
+    }
+}
